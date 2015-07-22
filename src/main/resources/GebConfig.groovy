@@ -3,7 +3,7 @@ driver = "chrome"
 
 //reports setting
 reportsDir = "bin/geb-reports"
-// キャプチャー出力 true：失敗時のみ false：全部出力
+
 reportOnTestFailureOnly = true
 
 
